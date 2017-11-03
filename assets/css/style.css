@@ -1,0 +1,23 @@
+.comment {
+    border: 1px solid black;
+    padding: 2% 1%;
+    margin: 2% 0
+}
+
+.comment-children {
+    margin-left: 5%;
+}
+
+.comment-list {
+    width: 50%;
+}
+
+.name {
+    color: #777;
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
